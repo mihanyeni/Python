@@ -1,14 +1,14 @@
 # Python
 Reminders of previous programming (sensitive data removed)
 
-Contents
+CONTENTS
 1.
 2.
 3.
 4.
 5.
 
-#END
+# END
 
 
 
